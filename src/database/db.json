@@ -14,9 +14,18 @@
       "equipment": "Mouse",
       "description": "Tecla de espaço não funciona.",
       "user_name": "Angeline Richetti",
-      "status": "open",
+      "status": "closed",
       "created_at": "2025-08-18T14:57:07.109Z",
       "updated_at": "2025-08-19T12:06:45.986Z"
+    },
+    {
+      "id": "9626bb0a-c3b9-46d2-b331-efdef356a467",
+      "equipment": "Monitor",
+      "description": "Monitor desliga de repente.",
+      "user_name": "Emanuelli Grigoleto",
+      "status": "closed",
+      "created_at": "2025-08-19T12:15:09.776Z",
+      "updated_at": "2025-08-19T12:15:09.776Z"
     }
   ]
 }
